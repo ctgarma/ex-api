@@ -9,6 +9,7 @@ clone or download respository
 
 npm install
 
+comand: node server/server
 
 ## Note
 
