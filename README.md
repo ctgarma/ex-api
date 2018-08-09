@@ -24,5 +24,7 @@ MONGODB should be running on localhost:27017
 ## TODO:
 
 create email confirmation routine
+
+
 create test cases
 
