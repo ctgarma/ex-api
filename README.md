@@ -11,6 +11,11 @@ npm install
 
 comand: node server/server
 
+or 
+
+npm start
+
+
 ## Note
 
 MONGODB should be running on localhost:27017
